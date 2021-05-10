@@ -15,7 +15,7 @@ namespace Atividade_curso_classe
             Console.WriteLine("Idade:");
             p1.idade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Entre os dados da primeira pessoa:");
+            Console.WriteLine("Entre os dados da segunda pessoa:");
             Console.WriteLine("Nome:");
             p2.nome = Console.ReadLine();
             Console.WriteLine("Idade:");
