@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace Course {
+namespace pratica {
     class ContaBancaria {
 
         public int Numero { get; private set; }
